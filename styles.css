@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+
+
+}
+.header{
+    height: 515px;
+
+
+    background-image: url(/Canvas_2_0197b7a0-d6a4-4e59-823a-be8578f39486.webp) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+}
+.circle{
+    border-radius: 100%;
+    width: 19.78%;
+
+}
+.gameon{
+    
+}
+.fullsize{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.sizeupdate{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    height: 100%;
+    font-size: 28.58px;
+    width: 16%;
+ margin-left: auto;   
+ margin-right: auto;
+}
+.shirt{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.new{
+    margin: 0;
+}
